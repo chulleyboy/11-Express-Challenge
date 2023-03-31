@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the senction 6 challenge which features a website for finding the weather and forecast for a particular location.
+This is the senction 6 challenge which features an aplication for creating notes.
 
 ## Image
 
@@ -10,7 +10,7 @@ This is the senction 6 challenge which features a website for finding the weathe
 
 ## Usage
 
-Open index.html in your browser, then enter the name of the desired city and press the search button.
+Use npm install and then npm start in the command line
 
 ## Website Link
 
