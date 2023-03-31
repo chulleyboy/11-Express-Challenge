@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "An aplication for taking notes that uses Express.js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,11 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chulleyboy/11-Express-Challenge/settings/pages"
+    "url": "git+https://github.com/chulleyboy/11-Express-Challenge.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chulleyboy/11-Express-Challenge/issues"
+  },
+  "homepage": "https://github.com/chulleyboy/11-Express-Challenge#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   }
 }
