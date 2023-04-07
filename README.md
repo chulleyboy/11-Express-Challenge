@@ -1,8 +1,8 @@
-# <Section 6 Challenge>
+# <Section 11 Challenge>
 
 ## Description
 
-This is the senction 6 challenge which features an aplication for creating notes.
+This is the senction 11 challenge which features an aplication for creating notes.
 
 ## Image
 
@@ -14,7 +14,7 @@ Enter a title and description for a note, then click the save icon to save your 
 
 ## Website Link
 
-https://chulleyboy.github.io/06-Server-Side-APIs-Challenge/
+https://shrouded-wave-61300.herokuapp.com/notes
 
 ## License
 
