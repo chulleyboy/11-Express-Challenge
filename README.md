@@ -10,7 +10,7 @@ This is the senction 6 challenge which features an aplication for creating notes
 
 ## Usage
 
-Use npm install and then npm start in the command line
+Enter a title and description for a note, then click the save icon to save your note.
 
 ## Website Link
 
